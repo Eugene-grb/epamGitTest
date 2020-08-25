@@ -1,1 +1,2 @@
 this text in features branch
+add secont line to merge in master (conflict)
